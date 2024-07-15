@@ -1,7 +1,6 @@
 """
-Project 3
-name: Qiyuan An
-id: 1001915560
+Pr 3 
+Server
 """
 import socket
 import threading

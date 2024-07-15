@@ -1,6 +1,6 @@
 """
-name: Qiyuan An
-id: 1001915560
+Pr 1
+Client
 """
 import socket
 import struct
